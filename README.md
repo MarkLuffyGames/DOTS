@@ -13,64 +13,64 @@ Clone this repository, make a new branch for your demo, then:
 
  * Ant Pheromones: Ants look for food and spread pheromones to influence the pathing of other ants
 
-    ![Ant Pheromones](_imgs/AntPhermones.gif?raw=true)
+    ![Ant Pheromones](DOTS/_imgs/AntPhermones.gif?raw=true)
  * Auto Farmers: Farmers gather and sell resources to expand their farm.
 
-    ![Auto Farmers](_imgs/AutoFarmers.png?raw=true)
+    ![Auto Farmers](DOTS/_imgs/AutoFarmers.png?raw=true)
  * Bucket Brigade: Firefighters pass buckets along a chain to extinguish a fire.
 
-    ![Bucket Brigade](_imgs/BucketBrigade.png?raw=true)
+    ![Bucket Brigade](DOTS/_imgs/BucketBrigade.png?raw=true)
  * Combat Bees: Two bee hives battle for resources and survival.
 
-    ![Combat Bees](_imgs/CombatBees.gif?raw=true)
+    ![Combat Bees](DOTS/_imgs/CombatBees.gif?raw=true)
  * Cliff Divers: Dramatic shots of people diving down a cliff.
 
-    ![Cliff Divers](_imgs/CliffDivers.gif?raw=true)
+    ![Cliff Divers](DOTS/_imgs/CliffDivers.gif?raw=true)
  * CpuCarManufacturer: Car manufacturing used as a metaphor for the memory stack.
 
-    ![Cpu Car Manufacturer](_imgs/CpuCarManufacturer.png?raw=true)
+    ![Cpu Car Manufacturer](DOTS/_imgs/CpuCarManufacturer.png?raw=true)
  * Distance Field Attractors: Colorful particles move towards the surface of an invisible mesh.
 
-    ![Distance Field Attractors](_imgs/DistanceFieldAttractors.gif?raw=true)
+    ![Distance Field Attractors](DOTS/_imgs/DistanceFieldAttractors.gif?raw=true)
  * Factory: Robots transport resources along lanes to crafters.
 
-    ![Factory](_imgs/Factory.png?raw=true)
+    ![Factory](DOTS/_imgs/Factory.png?raw=true)
  * Future HUD: Futuristic HUDs drawn with OpenGL primitives.
  
-    ![Future HUD](_imgs/FutureHUD.png?raw=true)
+    ![Future HUD](DOTS/_imgs/FutureHUD.png?raw=true)
  * JobCloth: Simulate clothing using the Job system.
 
-    ![Job Cloth](_imgs/JobCloth.gif?raw=true)
+    ![Job Cloth](DOTS/_imgs/JobCloth.gif?raw=true)
  * Highway Racers: Simulate traffic on a 4-lane highway.
 
-    ![Highway Racers](_imgs/HighwayRacers.gif?raw=true)
+    ![Highway Racers](DOTS/_imgs/HighwayRacers.gif?raw=true)
  * Jump The Gun: A ball jumps through a blocky landscape and avoids cannonballs.
 
-    ![Jump The Gun](_imgs/JumpTheGun.gif?raw=true)
+    ![Jump The Gun](DOTS/_imgs/JumpTheGun.gif?raw=true)
  * LabRat: Place arrows on the board to route the most rats into your home base.
 
-    ![Lab Rat](_imgs/LabRat.gif?raw=true)
+    ![Lab Rat](DOTS/_imgs/LabRat.gif?raw=true)
  * Magnetic Roads: Cars drive along 3D generated splines in all orientations.
 
-    ![Magnetic Roads](_imgs/MagneticRoads.gif?raw=true)
+    ![Magnetic Roads](DOTS/_imgs/MagneticRoads.gif?raw=true)
  * Metro: Metro train transport commuters from station to station.
 
-    ![Metro](_imgs/Metro.gif?raw=true)
+    ![Metro](DOTS/_imgs/Metro.gif?raw=true)
  * Parade: Take part in a parade and let people cheer for you.
 
-    ![Parade](_imgs/Parade.gif?raw=true)
+    ![Parade](DOTS/_imgs/Parade.gif?raw=true)
  * Stack Interchange: Cars drive through a stack interchange.
 
-    ![Stack Interchange](_imgs/StackInterchange.png?raw=true)
+    ![Stack Interchange](DOTS/_imgs/StackInterchange.png?raw=true)
  * Surgeon Master: Cut and stitch a triangle-mesh.
 
-    ![Surgeon Master](_imgs/SurgeonMaster.png?raw=true)
+    ![Surgeon Master](DOTS/_imgs/SurgeonMaster.png?raw=true)
  * Thrower Arms: Mechanical arms throw rocks at tin cans.
 
-    ![Thrower Arms](_imgs/ThrowerArms.gif?raw=true)
+    ![Thrower Arms](DOTS/_imgs/ThrowerArms.gif?raw=true)
  * Tornado: A tornado devastates a construction site.
 
-    ![Tornado](_imgs/Tornado.gif?raw=true)
+    ![Tornado](DOTS/_imgs/Tornado.gif?raw=true)
  * Zombie Maze: A circle picks up capsules in a maze infested with zombies.
 
     ![Zombie Maze](_imgs/ZombieMaze.png?raw=true)
